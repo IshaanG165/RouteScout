@@ -1,4 +1,4 @@
-# TransitFlow AI — Smart Bus Route Optimization Dashboard
+# RouteScout — Smart Bus Route Optimization Dashboard
 
 A production-quality, full-stack transport intelligence platform for NSW bus route analysis, simulation, and optimization.
 
